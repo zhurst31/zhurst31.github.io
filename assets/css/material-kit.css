@@ -1890,7 +1890,7 @@ select.form-control[multiple], .form-group.is-focused select.form-control[multip
   padding: 15px 0;
 }
 .nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
-  background-color: #333333;
+  background-color: #05345c;
   color: #FFFFFF;
   box-shadow: 0 16px 26px -10px #555555, 0 4px 25px 0px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(156, 39, 176, 0.2);
 }
@@ -3752,3 +3752,33 @@ h2.title {
 }
 
 /*# sourceMappingURL=material-kit.css.map */
+
+/*ADDED SOME HIGHLIGHTS*/	
+.fa-twitter:hover {
+	color: #00A1FA;
+	}
+	.fa-facebook-square:hover {
+    	color: #3b5998;
+	}
+	.fa-pinterest:hover {
+    	color: #EA4335;
+	}
+	.fa-camera-retro:hover {
+    	color: #34A853;
+	}
+	.fa-linkedin:hover {
+		color: #007bb5;
+	}
+	.fa-envelope:hover{
+		color: #dd4b39;
+	}
+	.fa-address-book:hover{
+		color: #000000;
+	}
+	.fa-external-link:hover{
+		color: #4285F4;
+	}
+	.fa-external-link-square:hover{
+		color: #4285F4;
+	}
+	/*END HIGHLIGHT REGION*/
