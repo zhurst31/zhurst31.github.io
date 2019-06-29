@@ -1,0 +1,21 @@
+[
+{
+  "id": 1,
+  "name": "Pirates Hideout",
+  "courses": [
+      {
+         "id": 1,
+         "siteId": 1,
+         "courseType": "Mini",
+         "holes": [
+             {
+                "id": 1,
+                "par": 4,
+                "name": "Hole 1",
+                "description": "argh"
+             }
+         ] 
+      }
+  ]
+}
+]
